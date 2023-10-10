@@ -12,8 +12,7 @@ Arduíno
 ![image](https://github.com/Beacesconetto/arduino_acender_led/assets/108144622/14b56d1d-1f4c-40f4-ae05-3ced2535432b)
 
 # Projeto no Tinkercad
-
-https://www.tinkercad.com/things/lB75IDot1XK-tremendous-hango-turing/editel?tenant=circuits
+https://www.tinkercad.com/things/d5aRqGpzsNZ-fantastic-jaiks/editel?tenant=circuits
 
 # Experimentar e pesquisar:
 - Use o comando "Serial.println(<NOME_IDENTIFICADOR>);" no código fonte para exibir
