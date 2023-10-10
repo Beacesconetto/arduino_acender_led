@@ -6,8 +6,17 @@ void setup()
 6.
 7. void loop()
 8. {
-9.      delay(1000); // Aguarda 1000 milésimos de segundo
-10.     digitalWrite(LED_BUILTIN, LOW); // Desliga o LED
-11.     delay(1000); // Aguarda 1000 milésimos de segundo
-12.     digitalWrite(LED_BUILTIN, HIGH); // Liga o LED
+  
+9.      // Aguarda 1000 milésimos de segundo      
+        delay(1000); 
+  
+        // Desliga o LED
+10.     digitalWrite(LED_BUILTIN, LOW); 
+
+        // Aguarda 1000 milésimos de segundo
+11.     delay(1000);
+
+        // Liga o LED
+12.     digitalWrite(LED_BUILTIN, HIGH); 
+  
 13. }
